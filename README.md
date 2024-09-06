@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @SHarivignesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-SHarivignesh/SHarivignesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Harivignesh!
+💻 Developer with a passion for creating web and mobile apps using .NET, Razor Pages, Avalonia, and more.
+🌱 Constantly learning and improving my skills.
+📚 Currently pursuing BCA at Tamil Open University, Chennai.
+🚀 Founder of getmysite.co.in – offering IT services and building solutions.
+📊 Focused on clean, beginner-friendly code.
+✨ Notion enthusiast for organizing ideas and tracking progress.
+🌟 Open to collaboration and exploring new technologies!
